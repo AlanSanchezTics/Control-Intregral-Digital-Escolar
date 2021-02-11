@@ -3,3 +3,6 @@
 
 # Comentarios Palomino
  *modificacion de readme para palomino
+
+# Comentario Josué
+* modificando readme por josue
